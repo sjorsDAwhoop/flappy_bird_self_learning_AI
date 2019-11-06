@@ -6,7 +6,7 @@ een Hexagon Mesh gegenereerd in python
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Main algorithm](link)
+- [Main algorithm](https://github.com/sjorsDAwhoop/Proefopdracht_template/blob/master/hexagongrid.py)
 
 
 ## Software Anaylse 
