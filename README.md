@@ -21,10 +21,11 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
-|  | maandag   | dinsdag    | woensdag | donderdag | vrijdag |
-|  | --- | --- | --- | --- | --- |
-| week 1 | github schrijven | onderzoek naar taal  | kijken welke libaries handig zijn | libaries testen | hexagon tekenen |
-| week 2 | hexagon tessalation maken | hexagon tessalation maken | afronden |  |  |
+
+| maandag | dinsdag | woensdag | donderdag | vrijdag |
+| --- | --- | --- | --- | --- |
+| github schrijven | onderzoek naar taal | kijken welke libaries handig zijn | libaries testen | hexagon tekenen |
+| hexagon tessalation maken | hexagon tessalation afmaken | afronden |  |  |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
