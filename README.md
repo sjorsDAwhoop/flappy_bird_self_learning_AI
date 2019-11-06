@@ -1,35 +1,32 @@
-# Naam Proefopdracht
+# HexagonMeshGenerator
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+een Hexagon Mesh gegenereerd in python 
 
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [Main algorithm](link)
+
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+Ik heb python onderzocht en gebruikt omdat het een super veelzijdig taal is waar ik graag meer tijd in wil steken. het heeft veel handige en intressante libaries en een actiefe support en community. verder heeft de taal zelf een duidelijk syntax 
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
+- mijn algemene python skills verbeteren
+- leren libaries te gebruiken in python
 - etc. etc.
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
-|week 1 |
-|week 2 |
+|       | maandag   | dinsdag    | woensdag       | donderdag | vrijdag     |
+|       | ---       | ---        | ---            | ---       | ---         |
+|week 1 | github schrijven | onderzoek naar taal  | kijken welke libaries handig zijn | libaries testen | hexagon tekenen |
+|week 2 | hexagon tessalation maken | hexagon tessalation maken | afronden  |            |             |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- https://docs.python.org/2/installing/
