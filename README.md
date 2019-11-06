@@ -14,8 +14,8 @@ Ik heb python onderzocht en gebruikt omdat het een super veelzijdig taal is waar
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- mijn algemene python skills verbeteren
-- leren libaries te gebruiken in python
+- mijn algemene python skills verbeteren.
+- leren libaries te gebruiken in python.
 - etc. etc.
 
 ## Planning 
@@ -24,7 +24,7 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 |       | maandag   | dinsdag    | woensdag       | donderdag | vrijdag     |
 |       | ---       | ---        | ---            | ---       | ---         |
 |week 1 | github schrijven | onderzoek naar taal  | kijken welke libaries handig zijn | libaries testen | hexagon tekenen |
-|week 2 | hexagon tessalation maken | hexagon tessalation maken | afronden  |            |             |
+|week 2 | hexagon tessalation maken | hexagon tessalation maken | afronden |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
