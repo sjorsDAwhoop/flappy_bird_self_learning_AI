@@ -1,6 +1,6 @@
 # flappy_bird_self_learning_AI
 
-een flappy bird game met self learning AI
+Een flappy bird game met self learning AI
 
 ## Features
 
@@ -8,8 +8,10 @@ een flappy bird game met self learning AI
 - [AI algorithm]
 
 ## Software Anaylse 
-hier staan de platformen en talen die ik onderzocht heb voor het programma wat ik wou maken
-### onderzochte sofware
+
+Hier staan de platformen en talen die ik onderzocht heb voor het programma wat ik wou maken
+
+### Onderzochte sofware
 - C# in unity
 - java in atom
 - python in idle
@@ -27,28 +29,28 @@ cons:
 
 #### java in atom
 pros:
-- een nieuwe taal die ik kan leren
-- stabiele taal en een grote community
+- Een nieuwe taal die ik kan leren
+- Stabiele taal en een grote community
 
 
 cons:
-- java is nieuw voor mij
-- je moet nieuwe libaries leren zoals javaFX
-- de taal is complex
+- Java is nieuw voor mij
+- Je moet nieuwe libaries leren zoals javaFX
+- De taal is complex
 
 #### python in idle
 pros
-- goed voor AI
-- veel handige makkelijk importeerbare libaries
-- een taal die ik graag wil leren
-- makkelijke syntax
-- met een keybinding makkelijke testen
+- Goed voor AI
+- Veel handige makkelijk importeerbare libaries
+- Een taal die ik graag wil leren
+- Makkelijke syntax
+- Met een keybinding makkelijke testen
 
 cons
-- is niet heel snel
-- idle is heel standaard niet veel tools
+- Is niet heel snel
+- Idle is heel vanilla niet veel tools om mee te werken
 
-### conclusie
+### Conclusie
 Ik heb uiteindelijk voor gekozen python te gebruiken. omdat python een van de best talen is voor het maken van AI en omdat het een taal is met veel bruikbare libaries, een grote support en community die kan helpen, en het is niet erg moeilijk op te pakken. verder is het een taal waar ik graag beter in wil worden. 
 
 
@@ -63,11 +65,10 @@ Ik heb uiteindelijk voor gekozen python te gebruiken. omdat python een van de be
 
 | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- |
-| github schrijven | libaries onderzoeken en kiezen | images importen en achtergrond drawen | bird class schrijven |pipe class schrijven  |
+| readme schrijven | libaries onderzoeken en kiezen | images importen en achtergrond drawen | bird class schrijven |pipe class schrijven  |
 | base class en alle objecten drawen | AI neural network onderzoek | AI neural network schrijven  | neural net work schrijven | afronden  |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [pygame doc](https://www.pygame.org/docs/)
 - [Neat doc](https://neat-python.readthedocs.io/en/latest/)
