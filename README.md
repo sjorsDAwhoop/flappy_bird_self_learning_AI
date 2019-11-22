@@ -1,33 +1,74 @@
-# HexagonMeshGenerator
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
+# flappy_bird_self_learning_AI
 
-een Hexagon Mesh gegenereerd in python 
+een flappy bird game met self learning AI
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Main algorithm](https://github.com/sjorsDAwhoop/Proefopdracht_template/blob/master/hexagongrid.py)
-
+- [Main game](https://github.com/sjorsDAwhoop/Proefopdracht_template/blob/master/hexagongrid.py)
+- [AI algorithm]
 
 ## Software Anaylse 
-Ik heb python onderzocht en gebruikt omdat het een super veelzijdig taal is waar ik graag meer tijd in wil steken. het heeft veel handige en intressante libaries en een actiefe support en community. verder heeft de taal zelf een duidelijk syntax 
+hier staan de platformen en talen die ik onderzocht heb voor het programma wat ik wou maken
+### onderzochte sofware
+- C# in unity
+- java in atom
+- python in idle
+
+##### C# in unity
+pros:
+- simpel game maken
+- heb al kennis van C# en unity
+- unity maakt alles visueel
+
+cons:
+- niet waar ik mee wil werken later
+- niet het beste voor AI
+- niet veel libaries voor AI
+
+#### java in atom
+pros:
+- een nieuwe taal die ik kan leren
+- stabiele taal en een grote community
+
+
+cons:
+- java is nieuw voor mij
+- je moet nieuwe libaries leren zoals javaFX
+- de taal is complex
+
+#### python in idle
+pros
+- goed voor AI
+- veel handige makkelijk importeerbare libaries
+- een taal die ik graag wil leren
+- makkelijke syntax
+- met een keybinding makkelijke testen
+
+cons
+- is niet heel snel
+- 
+
+### conclusie
+Ik heb uiteindelijk voor gekozen python te gebruiken. omdat python een van de best talen is voor het maken van AI en omdat het een taal is met veel bruikbare libaries, een grote support en community die kan helpen, en het is niet erg moeilijk op te pakken. verder is het een taal waar ik graag beter in wil worden. 
+
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
+
 - mijn algemene python skills verbeteren.
 - leren libaries te gebruiken in python.
-- etc. etc.
+- mijn kennis over AI verbeteren
 
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 
 | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- |
-| github schrijven | onderzoek naar taal | kijken welke libaries handig zijn | libaries testen | hexagon tekenen |
-| hexagon tessalation maken | hexagon tessalation afmaken | afronden |  |  |
+| github schrijven | libaries onderzoeken en kiezen | images importen en achtergrond drawen | bird class schrijven |pipe class schrijven  |
+| base class en alle objecten drawen | AI neural network onderzoek | AI neural network schrijven  | neural net work schrijven | afronden  |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- https://docs.python.org/2/installing/
+- [pygame doc](https://www.pygame.org/docs/)
+- [Neat doc](https://neat-python.readthedocs.io/en/latest/)
+- [AI uitleg video](https://www.youtube.com/watch?v=OGHA-elMrxI)
