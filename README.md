@@ -4,7 +4,7 @@ Een flappy bird game met self learning AI
 
 ## Features
 
-- [Main game](https://github.com/sjorsDAwhoop/Proefopdracht_template/blob/master/hexagongrid.py)
+- [Main game](https://github.com/sjorsDAwhoop/flappy_bird_self_learning_AI/blob/master/flappybird.py)
 - [AI algorithm]
 
 ## Software Anaylse 
@@ -44,11 +44,11 @@ pros
 - Veel handige makkelijk importeerbare libaries
 - Een taal die ik graag wil leren
 - Makkelijke syntax
-- Met een keybinding makkelijke testen
+- Makkelijke testen
 
 cons
-- Is niet heel snel
-- Idle is heel vanilla niet veel tools om mee te werken
+- Is niet snel
+- Idle is heel vanilla en niet veel standaard tools om mee te werken
 
 ### Conclusie
 Ik heb uiteindelijk voor gekozen python te gebruiken. omdat python een van de best talen is voor het maken van AI en omdat het een taal is met veel bruikbare libaries, een grote support en community die kan helpen, en het is niet erg moeilijk op te pakken. verder is het een taal waar ik graag beter in wil worden. 
