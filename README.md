@@ -46,7 +46,7 @@ pros
 
 cons
 - is niet heel snel
-- 
+- idle is heel standaard niet veel tools
 
 ### conclusie
 Ik heb uiteindelijk voor gekozen python te gebruiken. omdat python een van de best talen is voor het maken van AI en omdat het een taal is met veel bruikbare libaries, een grote support en community die kan helpen, en het is niet erg moeilijk op te pakken. verder is het een taal waar ik graag beter in wil worden. 
