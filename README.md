@@ -72,4 +72,3 @@ Ik heb uiteindelijk voor gekozen python te gebruiken. omdat python een van de be
 
 - [pygame doc](https://www.pygame.org/docs/)
 - [Neat doc](https://neat-python.readthedocs.io/en/latest/)
-- [AI uitleg video](https://www.youtube.com/watch?v=OGHA-elMrxI)
